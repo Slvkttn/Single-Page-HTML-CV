@@ -1,6 +1,7 @@
 # Single-Page HTML CV
 
-This project is a "solution" to the project at [roadmap.sh](https://roadmap.sh/projects/single-page-cv)
+This project is a "solution" to the project at [roadmap.sh](https://roadmap.sh/projects/single-page-cv).
+I use a fictional character "John Jackson", who is a very dedicated and eager chef!
 
 ## Description & Requirements
 
@@ -15,25 +16,28 @@ This project is a "solution" to the project at [roadmap.sh](https://roadmap.sh/p
 
 ## Submission Checklist
 
-- Semantically correct HTML structure.
-- Single-page layout with sections for education, skills, and career history.
-- SEO meta tags in the head section.
-- OG tags for better social media sharing.
-- A favicon linked in the head section.
+- [x] Semantically correct HTML structure.
+- [x] Single-page layout with sections for education, skills, and career history.
+- [x] SEO meta tags in the head section.
+- [x] OG tags for better social media sharing.
+- [x] A favicon linked in the head section.
 
 ## Usage
 
 1. Clone or download the repository
 2. Open `index.html` in a web browser
 3. Customize with your personal information for your own basic single-page CV
+4. Save as .pdf and use as a basic single-page CV
 
 ## Built With
 
 - HTML
-- Minimal internal CSS (Yes I know the project asks for only HTML, but wanted it to look a bit more like the image on the project description and also include a basic image for a profile picture)
+- Minimal internal `CSS`
+
+*Yes I know the project asks for only `HTML`, but I wanted the CV to look a bit more like the image shown on the [project description](https://roadmap.sh/projects/single-page-cv) and I also wanted to include a basic image for a profile picture*
   
 ## License
 
-This project is open-source and available for personal use. Modify as needed.
+This project is open-source and available for any use. Feel free to give me credit if you end up using this template.
 
 ---
